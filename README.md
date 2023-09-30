@@ -1,16 +1,30 @@
-### Hi there 👋
+## Hi there, I'm Thakorn Swaengkit (Eyp)
 
-<!--
-**thakorneyp11/thakorneyp11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 👨🏻‍💻 An AI/ML Engineer with experience in software development, machine learning, computer vision, and reinforcement learning.
+- 🎓 A BSc graduate in Robotics & AI Engineering from Chulalongkorn University.
+- 🏆 An awarded developer from Super AI Engineer Season 1 (2020).
+- 🏫 An exchange student at Indiana, USA (OEG21: 2014-2015).
+- 🌱 Passionate about Climate Tech and solutions that tackle Climate Change.
 
-Here are some ideas to get you started:
+You can contact me on  [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thakorns/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tech Stack
+- Programming Languages: `Python` `Java` `Javascript` `Typescript`
+- Frontend Development: `ReactJS` `NextJS`
+- Backend Development: `Django` `Flask`
+- IoT Development: `Volttron` `Matlab` `Arduino`
+- Machine Learning: `Pytorch` `Scikit-learn` `Stable-baselines3`
+- Data Science: `Dash` `Plotly` `Pandas` `Numpy` `OpenCV`
+- Tools and Deployment: `Git` `DVC` `Weights & Biases` `Docker` `SystemD` `AzureStack` `NvidiaStack`
+
+## Machine Learning Projects
+- Coming Soon
+
+## Software Development and IoT Projects
+- Coming Soon
+
+## Github Status
+[![Thakorn's github stats](https://github-readme-stats.vercel.app/api?username=thakorneyp11&count_private=true&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)&nbsp;&nbsp;
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thakorneyp11&layout=compact&langs_count=6&theme=dracula)](https://github.com/thakorneyp11)
+
+![Profile view](https://komarev.com/ghpvc/?username=thakorneyp11)
