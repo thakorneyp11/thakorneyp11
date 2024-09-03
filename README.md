@@ -13,8 +13,11 @@ You can contact me on  [![LinkedIn](https://img.shields.io/badge/linkedin-%23007
 - Frontend Development: `ReactJS` `NextJS`
 - Backend Development: `Django` `Flask`
 - IoT Development: `Volttron` `Matlab` `Arduino`
-- Machine Learning: `Pytorch` `Scikit-learn` `Stable-baselines3`
+- Databases: `TimescaleDB` `CrateDB` `MongoDB` `PostgreSQL` `Firebase` `Redis` `SocketIO`
 - Data Science: `Dash` `Plotly` `Pandas` `Numpy` `OpenCV`
+- Data Engineering: `MageAI`
+- Machine Learning: `Pytorch` `Scikit-learn` `Stable-baselines3` `PyCaret`
+- MLOps: `Nvidia Triton Inference Server` `BentoML` `ONNX` `TensorRT`
 - Tools and Deployment: `Git` `DVC` `Weights & Biases` `Docker` `SystemD` `AzureStack` `NvidiaStack`
 
 ## Machine Learning Projects
